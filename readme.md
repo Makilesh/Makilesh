@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Makilesh M**, an AI/ML Engineer specializing in LLMs, RAG systems, and real-time voice AI from Coimbatore, India.
+I'm **Makilesh M**, an AI/ML Engineer specializing in LLMs, RAG systems, and real-time voice AI
 
 Oracle-certified AI professional with production expertise in building and deploying multi-agent frameworks, voice assistants, and intelligent automation systems that deliver measurable business impact.
 
