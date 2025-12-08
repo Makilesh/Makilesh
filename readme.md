@@ -4,6 +4,8 @@ I'm **Makilesh M**, an AI/ML Engineer specializing in LLMs, RAG systems, and rea
 
 Oracle-certified AI professional with production expertise in building and deploying multi-agent frameworks, voice assistants, and intelligent automation systems that deliver measurable business impact.
 
+[![Oracle Certified](https://img.shields.io/badge/Oracle-Certified_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/artificial-intelligence/)
+
 ---
 
 ## 🚀 What I Do
