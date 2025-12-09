@@ -10,8 +10,8 @@ Oracle-certified AI professional with production expertise in building and deplo
 
 ## 🚀 What I Do
 
-- 🤖 Build production-grade **LLM applications** and **RAG systems** with 95%+ accuracy
-- 🎙️ Architect **real-time voice AI agents** achieving <200ms latency
+- 🤖 I Build production-grade **LLM applications** and **RAG systems** with 95% accuracy
+- 🎙️ Architect **real-time voice AI agents** achieving <300ms latency
 - 🧠 Design **multi-agent systems** automating 1000+ daily operations
 - 📊 Deploy **MLOps** solutions delivering 80%+ efficiency improvements
 - 💡 Lead technical teams and deliver AI solutions with measurable business impact
