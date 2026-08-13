@@ -4,6 +4,7 @@ I'm **Makilesh M**, an AI/ML Engineer specializing in LLMs, RAG systems, and rea
 
 Oracle-certified AI professional with production expertise in building and deploying multi-agent frameworks, voice assistants, and intelligent automation systems that deliver measurable business impact.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-makilesh.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://makilesh.github.io/)
 [![Oracle Certified](https://img.shields.io/badge/Oracle-Certified_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/artificial-intelligence/)
 
 ---
@@ -41,6 +42,7 @@ Oracle-certified AI professional with production expertise in building and deplo
 - Deep Learning • Neural Networks • NLP • Transformers
 - Large Language Models (LLMs) • Generative AI • RAG
 - Multi-Agent Systems • Prompt Engineering • Model Fine-tuning
+- Agentic RAG • Hybrid Search (Dense + BM25) • Speech-to-Text
 - Vector Embeddings • MLOps
 
 **Frameworks & Libraries**
@@ -61,6 +63,9 @@ Oracle-certified AI professional with production expertise in building and deplo
 ![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=python&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-2C5F2D?style=for-the-badge&logo=python&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -69,12 +74,14 @@ Oracle-certified AI professional with production expertise in building and deplo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 
 **Databases & Tools**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logoColor=white)
@@ -86,6 +93,7 @@ Oracle-certified AI professional with production expertise in building and deplo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -94,7 +102,9 @@ Oracle-certified AI professional with production expertise in building and deplo
 
 ## 📫 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://makilesh.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/makilesh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Makilesh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makilesh24225@gmail.com)
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/makilesh) -->
 
