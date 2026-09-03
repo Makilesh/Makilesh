@@ -1,119 +1,236 @@
-# Hey there!  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+<!-- ═══════════════════ BANNER (responsive light/dark) ═══════════════════ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:EF93C4&height=200&section=header&text=Makilesh%20M&fontSize=54&fontColor=FFFFFF&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=18&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:FF69B4&height=200&section=header&text=Makilesh%20M&fontSize=54&fontColor=1A1A2E&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=18&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:FF69B4&height=200&section=header&text=Makilesh%20M&fontSize=54&fontColor=1A1A2E&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=18&animation=fadeIn" alt="Makilesh M - AI/ML Engineer" width="100%">
+  </picture>
+</div>
 
-I'm **Makilesh M**, an AI/ML Engineer specializing in LLMs, RAG systems, and real-time voice AI
+<!-- ═══════════════════ TITLE ═══════════════════ -->
+<h1 align="center">
+  Hey there, I'm Makilesh
+  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30" alt="wave"/>
+</h1>
 
-Oracle-certified AI professional with production expertise in building and deploying multi-agent frameworks, voice assistants, and intelligent automation systems that deliver measurable business impact.
+<!-- ═══════════════════ ANIMATED TYPING ═══════════════════ -->
+<div align="center">
+  <a href="https://makilesh.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=EF93C4&center=true&vCenter=true&width=680&lines=AI%2FML+Engineer+%7C+Oracle+Certified;LLM+%26+Agentic+RAG+Systems;Real-Time+Voice+AI+Architect;Multi-Agent+Systems+%26+MLOps;Turning+ideas+into+shipped+products" alt="Typing SVG" />
+  </a>
+</div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-makilesh.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://makilesh.github.io/)
-[![Oracle Certified](https://img.shields.io/badge/Oracle-Certified_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/artificial-intelligence/)
+<br>
 
----
-
-## 🚀 What I Do
-
-- 🤖 Build production-grade **LLM applications** and **RAG systems** — retrieval pipelines, evaluation, and hallucination guardrails
-- 🎙️ Architect **real-time voice AI agents** for low-latency, full-duplex conversation
-- 🧠 Design **multi-agent systems** that automate business workflows end to end
-- 📊 Deploy **MLOps** pipelines — containerized, monitored, and built to stay up
-- 💡 Turn ambiguous problems into shipped AI products with measurable business impact
-
-
----
-
-## 🔭 Currently
-
-**Open to:** AI/ML Engineering roles, LLM consulting projects, and technical collaborations in production AI systems
-
----
-
-
-
-## 🛠️ Tech Stack
-
-**Programming**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-**AI & Machine Learning**
-- Deep Learning • Neural Networks • NLP • Transformers
-- Large Language Models (LLMs) • Generative AI • RAG
-- Multi-Agent Systems • Prompt Engineering • Model Fine-tuning
-- Agentic RAG • Hybrid Search (Dense + BM25) • Speech-to-Text
-- Vector Embeddings • MLOps
-
-**Frameworks & Libraries**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=python&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-2C5F2D?style=for-the-badge&logo=python&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-
-**Databases & Tools**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-**Web Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📫 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://makilesh.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/makilesh)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Makilesh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makilesh24225@gmail.com)
-<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/makilesh) -->
-
----
+<!-- ═══════════════════ STAT BADGES (pink) ═══════════════════ -->
+<div align="center">
+  <a href="https://github.com/Makilesh?tab=followers">
+    <img src="https://img.shields.io/github/followers/Makilesh?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0D1117&color=FF69B4" alt="Followers"/>
+  </a>
+  <a href="https://github.com/Makilesh?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/Makilesh?style=for-the-badge&logo=star&logoColor=white&label=TOTAL%20STARS&labelColor=0D1117&color=EF93C4" alt="Stars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Makilesh&style=for-the-badge&label=PROFILE+VIEWS&color=F8BBD0" alt="Profile Views"/>
+</div>
 
 <div align="center">
-  
-**"Let's turn ideas into impact — drop a star ⭐, fork, or DM; let's ship something epic."**
+  <a href="https://makilesh.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-makilesh.github.io-EF93C4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
+  </a>
+  <a href="https://www.oracle.com/artificial-intelligence/">
+    <img src="https://img.shields.io/badge/Oracle-Certified_GenAI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117" alt="Oracle Certified"/>
+  </a>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=makilesh&color=58A6FF&style=for-the-badge)
+<br>
 
+<!-- ═══════════════════ ABOUT ME — 65 / 35 TABLE ═══════════════════ -->
+<h2 align="center">🌸 About Me</h2>
+
+<table border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td width="65%" valign="top">
+      <p>
+        I'm <b>Makilesh M</b>, an <b>AI/ML Engineer</b> specializing in <b>LLMs</b>,
+        <b>RAG systems</b>, and <b>real-time voice AI</b>. Oracle-certified, with
+        production experience building and deploying multi-agent frameworks, voice
+        assistants, and intelligent automation systems.
+      </p>
+      <ul>
+        <li>🤖 Build production-grade <b>LLM applications</b> and <b>RAG systems</b> — retrieval pipelines, evaluation, and hallucination guardrails</li>
+        <li>🎙️ Architect <b>real-time voice AI agents</b> for low-latency, full-duplex conversation</li>
+        <li>🧠 Design <b>multi-agent systems</b> that automate business workflows end to end</li>
+        <li>📊 Deploy <b>MLOps</b> pipelines — containerized, monitored, and built to stay up</li>
+        <li>💡 Turn ambiguous problems into shipped AI products with measurable business impact</li>
+      </ul>
+      <p>
+        📍 Based in <b>Bangalore, India</b><br>
+        🔭 <b>Open to:</b> AI/ML Engineering roles, LLM consulting projects, and technical
+        collaborations in production AI systems<br>
+        📫 Reach me at <b>makilesh24225@gmail.com</b>
+      </p>
+    </td>
+    <td width="35%" valign="middle" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Makilesh&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&ring_color=FF69B4" width="100%" alt="GitHub Stats"/>
+      <!-- Prefer an illustration or GIF here? Swap the <img> above for your own image URL. -->
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,html,css,react,spring&theme=dark" alt="Languages"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,selenium,fastapi,flask,postman&theme=dark" alt="Frameworks"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,mysql,postgres,git,github,vscode&theme=dark" alt="Cloud and Tools"/>
+</div>
+
+<br>
+
+<div align="center">
+
+**🧠 AI & Machine Learning**
+
+Deep Learning • Neural Networks • NLP • Transformers <br>
+Large Language Models (LLMs) • Generative AI • RAG <br>
+Multi-Agent Systems • Prompt Engineering • Model Fine-tuning <br>
+Agentic RAG • Hybrid Search (Dense + BM25) • Speech-to-Text <br>
+Vector Embeddings • MLOps
+
+</div>
+
+<div align="center">
+
+**⚡ LLM & Agent Frameworks**
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-2C5F2D?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+**🗄️ Vector & Data**
+
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════ GITHUB STATS — PINK THEME ═══════════════════ -->
+<h2 align="center">🌷 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Makilesh&background=00000000&border=EF93C4&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakNum=EF93C4&currStreakLabel=FF69B4&sideNums=EF93C4&sideLabels=F8BBD0&dates=F8BBD0&border_radius=12" alt="GitHub Streak" width="85%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Makilesh&bg_color=00000000&color=FF69B4&line=EF93C4&point=F8BBD0&area=true&area_color=F8BBD0&title_color=FF69B4&hide_border=true&radius=8" alt="Activity Graph" width="95%"/>
+</div>
+
+<br>
+
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+<!--
+  ⚠️ SETUP REQUIRED - the snake below will 404 until you add this GitHub Action.
+  Create  .github/workflows/snake.yml  in this repo and paste:
+
+  name: Generate Snake
+  on:
+    schedule: [{ cron: "0 0 * * *" }]
+    workflow_dispatch:
+    push: { branches: [main] }
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      permissions: { contents: write }
+      steps:
+        - uses: Platane/snk@v3
+          id: snake-gif
+          with:
+            github_user_name: Makilesh
+            outputs: |
+              dist/snake.svg?palette=github-light&color_snake=FF69B4
+              dist/snake-dark.svg?palette=github-dark&color_snake=EF93C4
+        - uses: crazy-max/ghaction-github-pages@v4
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  Then run it once from the Actions tab (Run workflow) to create the `output` branch.
+-->
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Makilesh/Makilesh/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Makilesh/Makilesh/output/snake.svg">
+    <img src="https://raw.githubusercontent.com/Makilesh/Makilesh/output/snake.svg" alt="Contribution snake animation" width="100%">
+  </picture>
+</div>
+
+<br>
+
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
+<h2 align="center">📫 Let's Connect</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/makilesh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/MakileshM">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://instagram.com/[YOUR_INSTAGRAM]">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://tiktok.com/@[YOUR_TIKTOK]">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://youtube.com/@[YOUR_YOUTUBE]">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="mailto:makilesh24225@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>
+    <i>"Let's turn ideas into impact — drop a star ⭐, fork, or DM; let's ship something epic."</i>
+  </h3>
+</div>
+
+<!-- ═══════════════════ PINK WAVING FOOTER ═══════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=140&section=footer" width="100%" alt="footer"/>
 </div>
