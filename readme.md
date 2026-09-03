@@ -1,10 +1,6 @@
-<!-- ═══════════════════ BANNER (responsive light/dark) ═══════════════════ -->
+<!-- ═══════════════════ BANNER ═══════════════════ -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Makilesh%20M&fontSize=54&fontColor=FFFFFF&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=18&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Makilesh%20M&fontSize=54&fontColor=FFFFFF&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=18&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Makilesh%20M&fontSize=54&fontColor=FFFFFF&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=18&animation=fadeIn" alt="Makilesh M - AI/ML Engineer" width="100%">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=150&section=header&text=Makilesh%20M&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=62&descSize=17" alt="Makilesh M - AI/ML Engineer" width="100%">
 </div>
 
 <!-- ═══════════════════ TITLE ═══════════════════ -->
