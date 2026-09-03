@@ -2,8 +2,8 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Makilesh%20M&fontSize=54&fontColor=FFFFFF&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=18&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:79C0FF,100:1F6FEB&height=200&section=header&text=Makilesh%20M&fontSize=54&fontColor=0D1117&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=18&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:79C0FF,100:1F6FEB&height=200&section=header&text=Makilesh%20M&fontSize=54&fontColor=0D1117&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=18&animation=fadeIn" alt="Makilesh M - AI/ML Engineer" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Makilesh%20M&fontSize=54&fontColor=FFFFFF&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=18&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Makilesh%20M&fontSize=54&fontColor=FFFFFF&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=18&animation=fadeIn" alt="Makilesh M - AI/ML Engineer" width="100%">
   </picture>
 </div>
 
@@ -30,7 +30,7 @@
   <a href="https://github.com/Makilesh?tab=repositories&sort=stargazers">
     <img src="https://img.shields.io/github/stars/Makilesh?style=for-the-badge&logo=star&logoColor=white&label=TOTAL%20STARS&labelColor=0D1117&color=58A6FF" alt="Stars"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Makilesh&style=for-the-badge&label=PROFILE+VIEWS&color=79C0FF" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Makilesh&style=for-the-badge&label=PROFILE+VIEWS&color=1F6FEB" alt="Profile Views"/>
 </div>
 
 <div align="center">
@@ -71,8 +71,11 @@
       </p>
     </td>
     <td width="35%" valign="middle" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Makilesh&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=79C0FF&text_color=79C0FF&ring_color=58A6FF" width="100%" alt="GitHub Stats"/>
-      <!-- Prefer an illustration or GIF here? Swap the <img> above for your own image URL. -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Makilesh&theme=github_dark">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Makilesh&theme=github" width="100%" alt="Repositories per language"/>
+      </picture>
+      <!-- Prefer an illustration or GIF here? Swap the <picture> above for your own image URL. -->
     </td>
   </tr>
 </table>
@@ -106,34 +109,34 @@ Vector Embeddings • MLOps
 
 <div align="center">
 
-**⚡ LLM & Agent Frameworks**
+**🔗 LLM & Agent Frameworks**
 
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLTK-2C5F2D?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white" alt="CrewAI"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
+<img src="https://img.shields.io/badge/NLTK-2C5F2D?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio"/>
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black" alt="YOLOv8"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup"/>
 
 **🗄️ Vector & Data**
 
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logoColor=white" alt="Weaviate"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure OpenAI"/>
+<img src="https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="RESTful APIs"/>
 
 </div>
 
@@ -149,7 +152,14 @@ Vector Embeddings • MLOps
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Makilesh&bg_color=00000000&color=1F6FEB&line=58A6FF&point=79C0FF&area=true&area_color=79C0FF&title_color=1F6FEB&hide_border=true&radius=8" alt="Activity Graph" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Makilesh&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Makilesh&theme=github" width="49%" alt="GitHub stats summary"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Makilesh&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Makilesh&theme=github" width="49%" alt="Most used languages"/>
+  </picture>
 </div>
 
 <br>
