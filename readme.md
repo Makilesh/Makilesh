@@ -1,9 +1,9 @@
 <!-- ═══════════════════ BANNER (responsive light/dark) ═══════════════════ -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:EF93C4&height=200&section=header&text=Makilesh%20M&fontSize=54&fontColor=FFFFFF&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=18&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:FF69B4&height=200&section=header&text=Makilesh%20M&fontSize=54&fontColor=1A1A2E&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=18&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:FF69B4&height=200&section=header&text=Makilesh%20M&fontSize=54&fontColor=1A1A2E&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=18&animation=fadeIn" alt="Makilesh M - AI/ML Engineer" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Makilesh%20M&fontSize=54&fontColor=FFFFFF&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=18&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:79C0FF,100:1F6FEB&height=200&section=header&text=Makilesh%20M&fontSize=54&fontColor=0D1117&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=18&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:79C0FF,100:1F6FEB&height=200&section=header&text=Makilesh%20M&fontSize=54&fontColor=0D1117&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=18&animation=fadeIn" alt="Makilesh M - AI/ML Engineer" width="100%">
   </picture>
 </div>
 
@@ -16,26 +16,26 @@
 <!-- ═══════════════════ ANIMATED TYPING ═══════════════════ -->
 <div align="center">
   <a href="https://makilesh.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=EF93C4&center=true&vCenter=true&width=680&lines=AI%2FML+Engineer+%7C+Oracle+Certified;LLM+%26+Agentic+RAG+Systems;Real-Time+Voice+AI+Architect;Multi-Agent+Systems+%26+MLOps;Turning+ideas+into+shipped+products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=AI%2FML+Engineer+%7C+Oracle+Certified;LLM+%26+Agentic+RAG+Systems;Real-Time+Voice+AI+Architect;Multi-Agent+Systems+%26+MLOps;Turning+ideas+into+shipped+products" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-<!-- ═══════════════════ STAT BADGES (pink) ═══════════════════ -->
+<!-- ═══════════════════ STAT BADGES (blue) ═══════════════════ -->
 <div align="center">
   <a href="https://github.com/Makilesh?tab=followers">
-    <img src="https://img.shields.io/github/followers/Makilesh?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0D1117&color=FF69B4" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/Makilesh?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0D1117&color=1F6FEB" alt="Followers"/>
   </a>
   <a href="https://github.com/Makilesh?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/Makilesh?style=for-the-badge&logo=star&logoColor=white&label=TOTAL%20STARS&labelColor=0D1117&color=EF93C4" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/Makilesh?style=for-the-badge&logo=star&logoColor=white&label=TOTAL%20STARS&labelColor=0D1117&color=58A6FF" alt="Stars"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Makilesh&style=for-the-badge&label=PROFILE+VIEWS&color=F8BBD0" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Makilesh&style=for-the-badge&label=PROFILE+VIEWS&color=79C0FF" alt="Profile Views"/>
 </div>
 
 <div align="center">
   <a href="https://makilesh.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-makilesh.github.io-EF93C4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-makilesh.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
   </a>
   <a href="https://www.oracle.com/artificial-intelligence/">
     <img src="https://img.shields.io/badge/Oracle-Certified_GenAI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117" alt="Oracle Certified"/>
@@ -45,7 +45,7 @@
 <br>
 
 <!-- ═══════════════════ ABOUT ME — 65 / 35 TABLE ═══════════════════ -->
-<h2 align="center">🌸 About Me</h2>
+<h2 align="center">⚡ About Me</h2>
 
 <table border="0" cellspacing="0" cellpadding="12">
   <tr>
@@ -71,7 +71,7 @@
       </p>
     </td>
     <td width="35%" valign="middle" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Makilesh&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&ring_color=FF69B4" width="100%" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Makilesh&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=79C0FF&text_color=79C0FF&ring_color=58A6FF" width="100%" alt="GitHub Stats"/>
       <!-- Prefer an illustration or GIF here? Swap the <img> above for your own image URL. -->
     </td>
   </tr>
@@ -139,17 +139,17 @@ Vector Embeddings • MLOps
 
 <br>
 
-<!-- ═══════════════════ GITHUB STATS — PINK THEME ═══════════════════ -->
-<h2 align="center">🌷 GitHub Stats</h2>
+<!-- ═══════════════════ GITHUB STATS — BLUE THEME ═══════════════════ -->
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Makilesh&background=00000000&border=EF93C4&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakNum=EF93C4&currStreakLabel=FF69B4&sideNums=EF93C4&sideLabels=F8BBD0&dates=F8BBD0&border_radius=12" alt="GitHub Streak" width="85%"/>
+  <img src="https://streak-stats.demolab.com?user=Makilesh&background=00000000&border=58A6FF&stroke=58A6FF&ring=1F6FEB&fire=00D9FF&currStreakNum=58A6FF&currStreakLabel=1F6FEB&sideNums=58A6FF&sideLabels=79C0FF&dates=79C0FF&border_radius=12" alt="GitHub Streak" width="85%"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Makilesh&bg_color=00000000&color=FF69B4&line=EF93C4&point=F8BBD0&area=true&area_color=F8BBD0&title_color=FF69B4&hide_border=true&radius=8" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Makilesh&bg_color=00000000&color=1F6FEB&line=58A6FF&point=79C0FF&area=true&area_color=79C0FF&title_color=1F6FEB&hide_border=true&radius=8" alt="Activity Graph" width="95%"/>
 </div>
 
 <br>
@@ -174,8 +174,8 @@ Vector Embeddings • MLOps
           with:
             github_user_name: Makilesh
             outputs: |
-              dist/snake.svg?palette=github-light&color_snake=FF69B4
-              dist/snake-dark.svg?palette=github-dark&color_snake=EF93C4
+              dist/snake.svg?palette=github-light&color_snake=1F6FEB
+              dist/snake-dark.svg?palette=github-dark&color_snake=58A6FF
         - uses: crazy-max/ghaction-github-pages@v4
           with:
             target_branch: output
@@ -230,7 +230,7 @@ Vector Embeddings • MLOps
   </h3>
 </div>
 
-<!-- ═══════════════════ PINK WAVING FOOTER ═══════════════════ -->
+<!-- ═══════════════════ BLUE WAVING FOOTER ═══════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=140&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:79C0FF,50:58A6FF,100:1F6FEB&height=140&section=footer" width="100%" alt="footer"/>
 </div>
